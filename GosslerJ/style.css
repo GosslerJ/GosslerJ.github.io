@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "Rubik";
+    src: url("assets/Rubik-VariableFont_wght.ttf");
+    font-weight: 500;
+}
+
+html {
+    background-image: url("assets/topography.webp");
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 22px;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    
+}
+
+header {
+    color: white;
+    background-color: #333333;
+    max-width: 100%;
+    text-align: right;
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+}
+
+section {
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-bottom: 0%;
+    padding-left: 10%;
+    margin: 0px;
+}
+
+h1 {
+    font-family: "Rubik";
+    text-align: left;
+}
+
+h2 {
+    font-family: "Rubik";
+}
+
+h3 {
+    font-family: "Rubik";
+    text-align: left;
+}
+
+.logo {
+    float: left;
+    position: relative;
+    margin: -10px 0px 0px 6%;
+}
+
+.link {
+    color: #ff0099;
+    padding: 10px;
+}
+
+.break {
+    text-align: center;
+}
+
+.wiki {
+    text-align: center;
+}
+
+.intro {
+    text-align: left;
+    color: #ff0099;
+}
